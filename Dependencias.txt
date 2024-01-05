@@ -12,3 +12,6 @@ npm install knex
 
 Cors
 npm install cors
+
+dotenv
+npm install dotenv
