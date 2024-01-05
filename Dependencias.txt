@@ -1,0 +1,14 @@
+Express
+npm install express
+
+Nodemon
+npm install nodemon
+
+Mysql2
+npm install mysql2
+
+Knex
+npm install knex
+
+Cors
+npm install cors
